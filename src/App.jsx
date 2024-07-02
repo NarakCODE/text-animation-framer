@@ -1,5 +1,5 @@
 import React from "react";
-
+// Run `npm install` before following my video tutorial
 const App = () => {
   return (
     <div className="w-full h-screen grid place-content-center gap-4">
